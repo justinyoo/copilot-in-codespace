@@ -1,6 +1,12 @@
 # GitHub Copilot in GitHub Codespaces
 
-DDD(Daegu Developer Day) 행사에서 데모용으로 사용했던 리포지토리입니다. 발표 내용 영상은 [이곳](https://www.youtube.com/live/HIQNLITA6dE?feature=share&t=6212)에서 확인하세요.
+GitHub Codespaces 안에서 GitHub Copilot과 Bing AI 데모용으로 사용했던 리포지토리입니다.
+
+
+## 관련 발표 영상
+
+* [DDD(Daegu Developer Day)](https://www.youtube.com/live/HIQNLITA6dE?feature=share&t=6212)
+* Azure Open Source Day 2023 Seoul
 
 
 ## 시작하기
